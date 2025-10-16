@@ -10,7 +10,7 @@ L’objectif est d’identifier les tendances, les corrélations et les facteurs
 - **Power BI** pour la création de tableaux de bord interactifs et la visualisation des résultats  
 
 ## 🧾 Contenu du projet
-📄 **[Télécharger le rapport complet (PDF)](Rapport_Projet_Marketing.pdf)**  
+📄 **[https://github.com/nidal-ai/marketing-campaign-impact-Description-/archive/refs/heads/main.zip](Rapport_Projet_Marketing.pdf)**  
 
 Le rapport contient :
 - L’introduction et les objectifs du projet  
